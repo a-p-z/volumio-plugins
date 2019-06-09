@@ -1,0 +1,18 @@
+{
+  "RF_AMP_SWITCH_TITLE": "RF Amp Switch (interruttore RF)",
+  "GPIO": "GPIO",
+  "SAVE": "Salva",
+  "GPIO_DOC": "Il pin GPIO usato per la trasmissione RF",
+  "ON": "Codice ON",
+  "ON_DOC": "Codice binario di accensione",
+  "OFF": "Codice OFF",
+  "OFF_DOC": "Codice binario di spegnimento",
+  "DT1 (us)": "Delta T1",
+  "DT1_DOC": "Intervallo di trasmissione del codice 1",
+  "DT2 (us)": "Delta T2",
+  "DT2_DOC": "Intervallo di trasmissione del codice 0",
+  "DTP (us)": "Pausa tra due tentativi",
+  "DTP_DOC": "Periodo di pausa tra ciascun tentativo di trasmissione del segnale",
+  "ATTEMPTS": "Numero di tentativi",
+  "ATTEMPTS_DOC": "Numero di tentativi all'interno della stessa trasmissione"
+}
